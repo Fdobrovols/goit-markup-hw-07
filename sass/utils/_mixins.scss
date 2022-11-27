@@ -1,0 +1,5 @@
+@mixin section($pt: 120px, $pb: $pt) 
+{
+    padding-top: $pt;
+    padding-bottom: $pb;
+}
